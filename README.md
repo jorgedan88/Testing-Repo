@@ -1,7 +1,8 @@
-# Proyecto Racer Track
-***
+<h1 align="center">
+  <p align="center">Sportify</p>
+</h1>
 
-![Image text](https://www.competirclaroquesi.com.ar/images/Emiliozzi_1.jpg)
+![Image text](https://github.com/Tanqueta88/RickAndMortyApp/blob/master/RickAndMorty.png)
 
 En este repositorio se encuentra el proyecto correspondiente al sistema integral de gestion de Gimnasios Sportify.
 
